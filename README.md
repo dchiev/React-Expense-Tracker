@@ -4,7 +4,7 @@
 
 Deployed Application: https://react-expenses-dc.herokuapp.com/
 
-Simple Javascript game featuring random dice scores and 2 player functionality.
+Expense Tracker using React.js, Hooks, and Context API.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Simple Javascript game featuring random dice scores and 2 player functionality.
 
 ## Description
 
-Simple Javascript game featuring random dice scores and 2 player functionality.
+Expense Tracker using React.js, Hooks, and Context API.
 
 ## Installation
 
